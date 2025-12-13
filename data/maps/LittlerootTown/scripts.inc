@@ -1014,3 +1014,9 @@ LittlerootTown_Text_BirchSomethingToShowYouAtLab:
 	.string "I have something to show you.\n"
 	.string "Let's go to my LAB.$"
 
+RomHackWelcomeSign::
+    msgbox RomHackWelcomeSign_Text, MSGBOX_SIGN
+    end
+
+RomHackWelcomeSign_Text:
+    .string "Welcome to the rice fields mutha fucka!$"
