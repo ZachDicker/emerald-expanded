@@ -10,7 +10,7 @@
     F(CONFUSION_SELF_DMG_CHANCE, confusionSelfDmgChance,  (u32, GEN_COUNT - 1)) \
     F(MULTI_HIT_CHANCE,          multiHitChance,          (u32, GEN_COUNT - 1)) \
     F(WHITEOUT_MONEY,            whiteoutMoney,           (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
-    F(LIGHT_BALL_ATTACK_BOOST,   lightBallAttackBoost,    (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
+    F(LIGHT_BALL_ATTACK_BOOST,   lightBallAttackBoost,    (u32, GEN_COUNT - 1)) \
     /* Experience settings */ \
     F(EXP_CATCH,                 expCatch,                (u32, GEN_COUNT - 1)) \
     F(TRAINER_EXP_MULTIPLIER,    trainerExpMultiplier,    (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
@@ -92,7 +92,7 @@
     F(GLARE_GHOST,               glareGhost,              (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
     F(SKILL_SWAP,                skillSwap,               (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
     F(BRICK_BREAK,               brickBreak,              (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
-    F(WISH_HP_SOURCE,            wishHpSource,            (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
+    F(WISH_HP_SOURCE,            wishHpSource,            (u32, GEN_COUNT - 1)) \
     F(RAMPAGE_CANCELLING,        rampageCancelling,       (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
     F(HEAL_BLOCKING,             healBlocking,            (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
     F(ROOTED_GROUNDING,          rootedGrounding,         (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
