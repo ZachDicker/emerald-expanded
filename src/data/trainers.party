@@ -229,11 +229,19 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Poochyena
-Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Poochyena @ Oran Berry  
+Ability: Rattled  
+Level: 9  
+Tera Type: Dark  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 11 HP / 11 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe  
+- Bite  
+- Thunder Fang  
+- Lash Out  
+- Pursuit  
 
 === TRAINER_MARCEL ===
 Name: MARCEL
@@ -2119,13 +2127,21 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Items: Full Restore
+Items: Full Restore / Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Zigzagoon @ Nugget
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Minccino (F)  
+Ability: Skill Link  
+Level: 7  
+Tera Type: Normal  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 15 HP / 15 Atk / 11 Def / 11 SpA / 11 SpD / 15 Spe  
+- Tail Slap  
+- Charm  
+- Sing  
+- Tail Whip  
 
 === TRAINER_DAPHNE ===
 Name: DAPHNE
@@ -2523,13 +2539,17 @@ Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
 Music: Rich
-Items: Full Restore
+Items: Full Restore / Full Restore
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Zigzagoon @ Nugget
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Blitzle @ Shuca Berry  
+Ability: Lightning Rod  
+Level: 7  
+Tera Type: Electric  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 15 HP / 11 Atk / 11 Def / 15 SpA / 11 SpD / 15 Spe  
 
 === TRAINER_MOLLIE ===
 Name: MOLLIE
@@ -4796,7 +4816,7 @@ Gender: Female
 Music: Female
 Items: Potion / Potion
 Double Battle: No
-AI: Smart Trainer / Ace Pokemon
+AI: Basic Trainer / Smart Trainer / Ace Pokemon / Prediction
 
 Geodude @ Oran Berry  
 Ability: Sturdy  
@@ -5959,11 +5979,19 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Poochyena
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Poochyena @ Black Glasses  
+Ability: Rattled  
+Level: 5  
+Tera Type: Dark  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+IVs: 5 HP / 5 Def / 5 SpA / 5 SpD / 5 Spe  
+- Bite  
+- Howl  
+- Tackle  
+- Leer
 
 === TRAINER_BILLY ===
 Name: BILLY
@@ -5972,15 +6000,27 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Zigzagoon
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Minccino  
+Ability: Skill Link  
+Level: 5  
+Tera Type: Normal  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 11 HP / 11 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe  
+- Tail Slap  
+- Charm  
+- Sing  
+- Tail Whip  
 
-Seedot
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Skiddo  
+Ability: Sap Sipper  
+Level: 5  
+Tera Type: Water  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+IVs: 11 HP / 11 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe  
 
 === TRAINER_JOSH ===
 Name: JOSH
@@ -6225,15 +6265,23 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Zigzagoon
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zigzagoon  
+Ability: Quick Feet  
+Level: 5  
+Tera Type: Normal  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe  
 
-Taillow
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Taillow @ Flame Orb  
+Ability: Guts  
+Level: 5  
+Tera Type: Normal  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe  
 
 === TRAINER_TIMMY ===
 Name: TIMMY
@@ -6339,7 +6387,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
 Magikarp
 Level: 5
@@ -8816,15 +8864,23 @@ Pic: Twins
 Gender: Male
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Seedot
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Lillipup @ Eviolite  
+Ability: Vital Spirit  
+Level: 7  
+Tera Type: Normal  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+IVs: 11 HP / 11 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe  
 
-Lotad
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Purrloin @ Eviolite  
+Ability: Prankster  
+Level: 7  
+Tera Type: Dark  
+EVs: 252 HP / 244 Atk / 12 Spe  
+Bashful Nature  
+IVs: 11 HP / 11 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe  
 
 === TRAINER_MIU_AND_YUKI ===
 Name: MIU & YUKI
@@ -11063,15 +11119,23 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Zigzagoon
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zigzagoon  
+Ability: Quick Feet  
+Level: 5  
+Tera Type: Normal  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe  
 
-Shroomish
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Shroomish @ Toxic Orb  
+Ability: Poison Heal  
+Level: 5  
+Tera Type: Grass  
+EVs: 252 HP / 56 Def / 200 SpD  
+Bold Nature  
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe  
 
 === TRAINER_HALEY_1 ===
 Name: HALEY
@@ -11080,15 +11144,23 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Lotad
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Lotad  
+Ability: Rain Dish  
+Level: 6  
+Tera Type: Water  
+EVs: 252 HP / 252 SpA  
+Modest Nature  
+IVs: 11 HP / 0 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe  
 
-Shroomish
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Seedot  
+Ability: Pickpocket  
+Level: 6  
+Tera Type: Grass  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+IVs: 11 HP / 0 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe  
 
 === TRAINER_JANICE ===
 Name: JANICE
@@ -11267,15 +11339,23 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Wurmple
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Wurmple  
+Ability: Shield Dust  
+Level: 5  
+Tera Type: Bug  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe  
 
-Wurmple
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Wurmple  
+Ability: Shield Dust  
+Level: 5  
+Tera Type: Bug  
+EVs: 252 Def / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe  
 
 === TRAINER_LYLE ===
 Name: LYLE
@@ -11283,24 +11363,24 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle: No
-AI: Check Bad Move
+Double Battle: Yes
+AI: Basic Trainer / Prediction
 
 Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 6
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 6
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 6
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 6
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_JOSE ===
 Name: JOSE
@@ -11373,15 +11453,15 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
 Nincada
 Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Nincada
 Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_JAMES_2 ===
 Name: JAMES
@@ -12990,7 +13070,7 @@ AI: Check Bad Move
 
 Magikarp
 Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_HAILEY ===
 Name: HAILEY
