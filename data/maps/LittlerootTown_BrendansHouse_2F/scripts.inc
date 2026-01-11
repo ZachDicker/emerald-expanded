@@ -290,6 +290,10 @@ PlayersHouse_2F_Text_Notebook:
 	.string "Open the MENU with START.\p"
 	.string "ADVENTURE RULE NO. 2\n"
 	.string "Record your progress with SAVE.\p"
+	.string "ADVENTURE RULE NO. 3\n"
+	.string "Name your pokemon with LOVE.\p"
+	.string "ADVENTURE RULE NO. 4\n"
+	.string "Enjoy the ROM Hack!\p"
 	.string "The remaining pages are blank…$"
 
 Common_Text_LookCloserAtMap:

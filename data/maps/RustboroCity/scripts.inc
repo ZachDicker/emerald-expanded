@@ -1278,7 +1278,8 @@ RustboroCity_Text_PleaseSelectPokenav:
 	.string "Please select the POKéNAV.$"
 
 RustboroCity_Text_IdBetterGetBackToWork:
-	.string "Okay, I'd better get back to work.\n"
+	.string "President Stone sounded mad...\n"
+	.string "I'll go clean out my desk.\p"
 	.string "Please take care, {PLAYER}!$"
 
 RustboroCity_Text_YouCanHave2On2Battle:

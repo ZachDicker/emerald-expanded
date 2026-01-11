@@ -234,7 +234,6 @@ AI: Basic Trainer / Prediction
 Poochyena @ Oran Berry  
 Ability: Rattled  
 Level: 9  
-Tera Type: Dark  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 IVs: 11 HP / 11 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe  
@@ -328,11 +327,14 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Poochyena
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Nickit @ Sitrus Berry  
+Ability: Unburden  
+Level: 11  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_WEATHER_INST_1 ===
 Name: GRUNT
@@ -844,23 +846,22 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Sandshrew
-Level: 25
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Dig
-- Slash
-- Sand Attack
-- Poison Sting
+Sandslash  
+Level: 25  
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe  
+- Dig  
+- Slash  
+- Sand Attack  
+- Poison Sting  
 
-Sandslash
-Level: 25
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Dig
-- Slash
-- Sand Attack
-- Poison Sting
+Shieldon @ Air Balloon  
+Ability: Sturdy  
+Level: 25  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe  
 
 === TRAINER_DUSTY_2 ===
 Name: DUSTY
@@ -2133,8 +2134,7 @@ AI: Basic Trainer / Prediction
 
 Minccino (F)  
 Ability: Skill Link  
-Level: 7  
-Tera Type: Normal  
+Level: 7   
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 IVs: 15 HP / 15 Atk / 11 Def / 11 SpA / 11 SpD / 15 Spe  
@@ -2545,8 +2545,7 @@ AI: Basic Trainer / Prediction
 
 Blitzle @ Shuca Berry  
 Ability: Lightning Rod  
-Level: 7  
-Tera Type: Electric  
+Level: 7   
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 15 HP / 11 Atk / 11 Def / 15 SpA / 11 SpD / 15 Spe  
@@ -2769,11 +2768,11 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
 Carvanha
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_DOMINIK ===
 Name: DOMINIK
@@ -2782,11 +2781,11 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
 Tentacool
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_DOUGLAS ===
 Name: DOUGLAS
@@ -2795,15 +2794,21 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Tentacool
-Level: 24
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Jellicent @ Wacan Berry  
+Ability: Cursed Body  
+Level: 24  
+EVs: 252 HP / 252 Def / 4 SpD  
+Calm Nature  
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe  
 
-Tentacool
-Level: 24
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Inkay @ Sitrus Berry  
+Ability: Infiltrator  
+Level: 24  
+EVs: 252 HP / 80 Def / 176 SpD  
+Careful Nature  
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe  
 
 === TRAINER_DARRIN ===
 Name: DARRIN
@@ -3189,9 +3194,9 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Machop
+Hitmonchan
 Level: 13
 IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
@@ -4820,8 +4825,7 @@ AI: Basic Trainer / Smart Trainer / Ace Pokemon / Prediction
 
 Geodude @ Oran Berry  
 Ability: Sturdy  
-Level: 12  
-Tera Type: Rock  
+Level: 12   
 EVs: 252 HP / 252 Def / 4 Spe  
 Impish Nature  
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe  
@@ -4833,7 +4837,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 Nosepass @ Sitrus Berry  
 Ability: Sturdy  
 Level: 15  
-Tera Type: Rock  
 EVs: 252 HP / 184 Atk / 72 Spe  
 Adamant Nature  
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe  
@@ -4862,31 +4865,52 @@ Gender: Male
 Music: Male
 Items: Super Potion / Super Potion
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Smart Trainer / Ace Pokemon / Prediction
 
-Machop
-Level: 16
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Karate Chop
-- Low Kick
-- Seismic Toss
-- Bulk Up
+Sawk @ Black Belt  
+Ability: Inner Focus  
+Level: 16 
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 12 HP / 12 Def / 12 SpA / 12 SpD / 12 Spe  
+- Low Kick  
+- Karate Chop  
+- Seismic Toss  
+- Bulk Up  
 
-Meditite
-Level: 16
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Focus Punch
-- Light Screen
-- Reflect
-- Bulk Up
+Throh @ Black Belt  
+Ability: Inner Focus  
+Level: 16    
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+IVs: 12 HP / 12 Def / 12 SpA / 12 SpD / 12 Spe  
+- Seismic Toss  
+- Bulk Up  
+- Facade  
+- Bide  
 
-Makuhita @ Sitrus Berry
-Level: 19
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Arm Thrust
-- Vital Throw
-- Reversal
-- Bulk Up
+Makuhita @ Sitrus Berry  
+Ability: Guts  
+Level: 19  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 24 HP / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Arm Thrust  
+- Vital Throw  
+- Reversal  
+- Bulk Up  
+
+Hawlucha @ Power Herb  
+Ability: Unburden  
+Level: 19  
+Tera Type: Flying  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Bounce  
+- Bulk Up  
+- Karate Chop  
+- Low Kick  
 
 === TRAINER_WATTSON_1 ===
 Name: WATTSON
@@ -5163,11 +5187,11 @@ Pic: School Kid M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
 Ralts
 Level: 9
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_TED ===
 Name: TED
@@ -5285,8 +5309,8 @@ Double Battle: No
 AI: Check Bad Move
 
 Shroomish
-Level: 9
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Level: 10
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10SpD / 10 Spe
 
 === TRAINER_GEORGIA ===
 Name: GEORGIA
@@ -5984,7 +6008,6 @@ AI: Basic Trainer / Prediction
 Poochyena @ Black Glasses  
 Ability: Rattled  
 Level: 5  
-Tera Type: Dark  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 IVs: 5 HP / 5 Def / 5 SpA / 5 SpD / 5 Spe  
@@ -6005,7 +6028,6 @@ AI: Basic Trainer / Prediction
 Minccino  
 Ability: Skill Link  
 Level: 5  
-Tera Type: Normal  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 IVs: 11 HP / 11 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe  
@@ -6043,15 +6065,23 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Powerful Status
 
-Geodude
-Level: 8
-IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
+Geodude  
+Level: 8  
+IVs: 13 HP / 13 Def / 13 SpA / 13 SpD / 13 Spe  
+- Rock Polish  
+- Stealth Rock  
+- Defense Curl  
+- Tackle  
 
-Geodude
-Level: 8
-IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
+Geodude  
+Level: 8    
+IVs: 14 HP / 14 Def / 14 SpA / 14 SpD / 14 Spe  
+- Rock Polish  
+- Defense Curl  
+- Stealth Rock  
+- Tackle  
 
 === TRAINER_JOEY ===
 Name: JOEY
@@ -6060,11 +6090,11 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
 Machop
 Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_BEN ===
 Name: BEN
@@ -6269,16 +6299,14 @@ AI: Basic Trainer / Prediction
 
 Zigzagoon  
 Ability: Quick Feet  
-Level: 5  
-Tera Type: Normal  
+Level: 5   
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe  
 
 Taillow @ Flame Orb  
 Ability: Guts  
-Level: 5  
-Tera Type: Normal  
+Level: 5   
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe  
@@ -6429,7 +6457,7 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
 Magikarp
 Level: 10
@@ -6437,11 +6465,11 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Tentacool
 Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
-Magikarp
+Poliwag
 Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_NED ===
 Name: NED
@@ -6450,11 +6478,11 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Tentacool
-Level: 11
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Slowpoke
+Level: 12
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_DALE ===
 Name: DALE
@@ -7898,9 +7926,9 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Meditite
+Hitmontop
 Level: 13
 IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
@@ -7911,7 +7939,7 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
 Meditite
 Level: 13
@@ -8170,15 +8198,15 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
 Wingull
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Wailmer
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_IMANI ===
 Name: IMANI
@@ -8200,11 +8228,11 @@ Pic: Swimmer F
 Gender: Female
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
 Wailmer
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 31 HP / 10 Atk / 20 Def / 10 SpA / 20 SpD / 0 Spe
 
 === TRAINER_DENISE ===
 Name: DENISE
@@ -8868,8 +8896,7 @@ AI: Basic Trainer / Prediction
 
 Lillipup @ Eviolite  
 Ability: Vital Spirit  
-Level: 7  
-Tera Type: Normal  
+Level: 7   
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 IVs: 11 HP / 11 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe  
@@ -8877,7 +8904,6 @@ IVs: 11 HP / 11 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe
 Purrloin @ Eviolite  
 Ability: Prankster  
 Level: 7  
-Tera Type: Dark  
 EVs: 252 HP / 244 Atk / 12 Spe  
 Bashful Nature  
 IVs: 11 HP / 11 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe  
@@ -10626,15 +10652,17 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Will Suicide
 
-Geodude
-Level: 8
-IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
+Geodude  
+Level: 8   
+IVs: 14 HP / 14 Def / 14 SpA / 14 SpD / 14 Spe  
+- Self-Destruct  
 
-Geodude
-Level: 8
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+Geodude  
+Level: 8  
+IVs: 15 HP / 15 Def / 15 SpA / 15 SpD / 15 Spe  
+- Self-Destruct  
 
 === TRAINER_BRENDEN ===
 Name: BRENDEN
@@ -10643,7 +10671,7 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
 Machop
 Level: 13
@@ -10656,9 +10684,9 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Meditite
+Heracross
 Level: 13
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
@@ -10669,9 +10697,9 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Makuhita
+Hitmonlee
 Level: 13
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
@@ -11124,7 +11152,6 @@ AI: Basic Trainer / Prediction
 Zigzagoon  
 Ability: Quick Feet  
 Level: 5  
-Tera Type: Normal  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe  
@@ -11132,7 +11159,6 @@ IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 Shroomish @ Toxic Orb  
 Ability: Poison Heal  
 Level: 5  
-Tera Type: Grass  
 EVs: 252 HP / 56 Def / 200 SpD  
 Bold Nature  
 IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe  
@@ -11149,15 +11175,13 @@ AI: Basic Trainer / Prediction
 Lotad  
 Ability: Rain Dish  
 Level: 6  
-Tera Type: Water  
 EVs: 252 HP / 252 SpA  
 Modest Nature  
 IVs: 11 HP / 0 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe  
 
 Seedot  
 Ability: Pickpocket  
-Level: 6  
-Tera Type: Grass  
+Level: 6   
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
 IVs: 11 HP / 0 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe  
@@ -11169,11 +11193,11 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
 Marill
 Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_VIVI ===
 Name: VIVI
@@ -11344,7 +11368,6 @@ AI: Basic Trainer / Prediction
 Wurmple  
 Ability: Shield Dust  
 Level: 5  
-Tera Type: Bug  
 EVs: 252 HP / 252 Def / 4 SpD  
 Impish Nature  
 IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe  
@@ -11352,7 +11375,6 @@ IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 Wurmple  
 Ability: Shield Dust  
 Level: 5  
-Tera Type: Bug  
 EVs: 252 Def / 252 SpD / 4 Spe  
 Calm Nature  
 IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe  
@@ -11389,9 +11411,9 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Wurmple
+Grubbin
 Level: 8
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
@@ -11639,11 +11661,11 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Geodude
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Klawf
+Level: 10
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_ERIC ===
 Name: ERIC
@@ -13031,15 +13053,15 @@ Pic: Rich Boy
 Gender: Male
 Music: Rich
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Zigzagoon @ Nugget
+Skitty @ Nugget
 Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
-Poochyena
+Lechonk
 Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_SARAH ===
 Name: SARAH
@@ -13051,13 +13073,13 @@ Items: Full Restore
 Double Battle: No
 AI: Check Bad Move
 
-Lotad
+Pawmi
 Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
-Zigzagoon @ Nugget
+Snubbull @ Nugget
 Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_DARIAN ===
 Name: DARIAN
@@ -13672,15 +13694,22 @@ Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Sandshrew
-Level: 25
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Sandslash  
+Level: 25  
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe  
+- Dig  
+- Slash  
+- Sand Attack  
+- Poison Sting  
 
-Sandshrew
-Level: 25
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Cranidos @ Eviolite  
+Ability: Sheer Force  
+Level: 25  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
 
 === TRAINER_JOSUE ===
 Name: JOSUE
@@ -13689,15 +13718,24 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Taillow
-Level: 25
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Wattrel @ Sitrus Berry  
+Ability: Wind Power  
+Level: 25  
+EVs: 244 HP / 20 Atk / 244 Spe  
+Hasty Nature  
+- Tailwind  
+- Dual Wingbeat  
+- Thunder Shock  
+- Roost  
 
-Wingull
-Level: 25
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Mantyke @ Sitrus Berry  
+Ability: Water Absorb  
+Level: 25  
+EVs: 252 HP / 252 Def / 4 SpD  
+Calm Nature  
+IVs: 0 Atk  
 
 === TRAINER_CAMRON ===
 Name: CAMRON
@@ -13949,15 +13987,15 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
-Geodude
+Nacli
 Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
-Geodude
+Roggenrola
 Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_JOHNSON ===
 Name: JOHNSON
@@ -13966,15 +14004,15 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer / Prediction
 
 Shroomish
 Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Lotad
 Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_MELINA ===
 Name: MELINA
