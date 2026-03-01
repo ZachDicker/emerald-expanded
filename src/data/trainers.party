@@ -4948,39 +4948,52 @@ Gender: Male
 Music: Male
 Items: Super Potion / Super Potion
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Smart Trainer / Ace Pokemon / Prediction
 
-Voltorb
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rollout
-- Spark
-- Self Destruct
-- Shock Wave
+Emolga @ Red Card  
+Ability: Static  
+Level: 24  
+EVs: 244 Atk / 4 SpA / 248 Spe  
+Hasty Nature  
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Acrobatics  
+- Tailwind  
+- Thunder  
+- U-turn  
 
-Electrike
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Shock Wave
-- Leer
-- Quick Attack
-- Howl
+Togedemaru @ Rocky Helmet  
+Ability: Lightning Rod  
+Level: 24  
+Tera Type: Flying  
+EVs: 108 HP / 200 Def / 200 SpD  
+Impish Nature  
+IVs: 24 HP / 24 Atk / 24 SpA / 24 Spe  
+- Fake Out  
+- Spiky Shield  
+- Zing Zap  
+- Iron Head  
 
-Magneton
-Level: 22
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Supersonic
-- Shock Wave
-- Thunder Wave
-- Sonic Boom
+Magneton @ Eviolite  
+Ability: Analytic  
+Level: 24  
+EVs: 248 HP / 236 SpA / 20 SpD  
+Modest Nature  
+IVs: 26 HP / 0 Atk / 26 Def / 26 SpA / 26 SpD / 0 Spe  
+- Supersonic  
+- Shock Wave  
+- Thunder Wave  
+- Sonic Boom  
 
-Manectric @ Sitrus Berry
-Level: 24
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Quick Attack
-- Thunder Wave
-- Shock Wave
-- Howl
+Manectric @ Manectite  
+Ability: Static  
+Level: 26  
+EVs: 16 HP / 240 SpA / 240 Spe  
+Hasty Nature  
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Quick Attack  
+- Thunder Wave  
+- Flamethrower  
+- Discharge  
 
 === TRAINER_FLANNERY_1 ===
 Name: FLANNERY
@@ -4990,39 +5003,52 @@ Gender: Female
 Music: Female
 Items: Hyper Potion / Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Smart Trainer / Ace Pokemon / Prediction
 
-Numel
-Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Take Down
-- Magnitude
-- Sunny Day
+Torkoal @ Chesto Berry  
+Ability: Drought  
+Level: 25  
+EVs: 240 HP / 240 Def / 28 SpD  
+Bold Nature  
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Eruption  
+- Solar Beam  
+- Toxic  
+- Rest  
 
-Slugma
-Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Smog
-- Light Screen
-- Sunny Day
+Arcanine-Hisui @ Life Orb  
+Ability: Rock Head  
+Level: 25  
+Tera Type: Normal  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Extreme Speed  
+- Head Smash  
+- Flare Blitz  
+- Wild Charge  
 
-Camerupt
-Level: 26
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Tackle
-- Sunny Day
-- Attract
+Turtonator @ Leftovers  
+Ability: Shell Armor  
+Level: 25  
+EVs: 248 HP / 20 Def / 240 SpD  
+Careful Nature  
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Body Press  
+- Flame Charge  
+- Dragon Claw  
+- Iron Defense  
 
-Torkoal @ White Herb
-Level: 29
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Sunny Day
-- Body Slam
-- Attract
+Camerupt @ Cameruptite  
+Ability: Solid Rock  
+Level: 29  
+EVs: 228 HP / 240 SpA / 40 SpD  
+Modest Nature  
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Ancient Power  
+- Eruption  
+- Lava Plume  
+- Scorching Sands  
 
 === TRAINER_NORMAN_1 ===
 Name: NORMAN
@@ -5032,39 +5058,48 @@ Gender: Male
 Music: Male
 Items: Hyper Potion / Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Smart Trainer / Ace Pokemon / Prediction
 
-Spinda
-Level: 27
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Teeter Dance
-- Psybeam
-- Facade
-- Encore
+Ambipom @ King's Rock  
+Ability: Technician  
+Level: 27  
+EVs: 12 HP / 248 Atk / 248 Spe  
+Jolly Nature  
+IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe  
+- Aerial Ace  
+- Fake Out  
+- Return  
+- U-turn  
 
-Vigoroth
-Level: 27
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Slash
-- Facade
-- Encore
-- Feint Attack
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Level: 27  
+EVs: 236 HP / 16 Atk / 248 Def / 8 Spe  
+Impish Nature  
+IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe  
+- Transform  
 
-Linoone
-Level: 29
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Slash
-- Belly Drum
-- Facade
-- Headbutt
+Slaking @ Flame Orb  
+Ability: Truant  
+Level: 30  
+Tera Type: Fighting  
+EVs: 240 HP / 252 Atk / 16 SpD  
+Adamant Nature  
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Drain Punch  
+- Yawn  
+- Facade  
+- Slack Off  
 
-Slaking @ Sitrus Berry
-Level: 31
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Counter
-- Yawn
-- Facade
-- Feint Attack
+Kangaskhan @ Kangaskhanite  
+Ability: Scrappy  
+Level: 31  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Power-Up Punch  
+- Earthquake  
+- Return  
+- Shadow Claw  
 
 === TRAINER_WINONA_1 ===
 Name: WINONA
@@ -5074,47 +5109,62 @@ Gender: Female
 Music: Female
 Items: Hyper Potion / Hyper Potion
 Double Battle: No
-AI: Basic Trainer / Risky
+AI: Basic Trainer / Smart Trainer / Ace Pokemon / Prediction
 
-Swablu
-Level: 29
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Perish Song
-- Mirror Move
-- Safeguard
-- Aerial Ace
+Skarmory @ Leftovers  
+Ability: Sturdy  
+Level: 29  
+EVs: 248 HP / 236 Def / 24 Spe  
+Impish Nature  
+IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe  
+- Spikes  
+- Stealth Rock  
+- Roost  
+- Brave Bird  
 
-Tropius
-Level: 29
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Sunny Day
-- Aerial Ace
-- Solar Beam
-- Synthesis
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+Level: 29   
+EVs: 248 HP / 4 Atk / 248 Def / 4 Spe  
+Lax Nature  
+IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe  
+- Water Gun  
+- Supersonic  
+- Protect  
+- Aerial Ace  
 
-Pelipper
-Level: 30
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Water Gun
-- Supersonic
-- Protect
-- Aerial Ace
+Mandibuzz @ Quick Claw  
+Ability: Overcoat  
+Level: 30  
+Tera Type: Water  
+EVs: 248 HP / 248 Def / 8 SpD  
+Bold Nature  
+IVs: 28 HP / 28 Atk / 28 Def / 28 SpA / 28 SpD / 28 Spe  
+- Hurricane  
+- Foul Play  
+- Toxic  
+- Roost  
 
-Skarmory
-Level: 31
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Sand Attack
-- Fury Attack
-- Steel Wing
-- Aerial Ace
+Gliscor @ Black Sludge  
+Ability: Poison Heal  
+Level: 31  
+EVs: 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 28 HP / 28 Atk / 28 Def / 28 SpA / 28 SpD / 28 Spe  
+- Acrobatics  
+- Earthquake  
+- Swords Dance  
+- X-Scissor  
 
-Altaria @ Oran Berry
-Level: 33
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
-- Dragon Breath
-- Dragon Dance
-- Aerial Ace
+Altaria @ Altarianite  
+Ability: Cloud Nine  
+Level: 33  
+EVs: 252 Atk / 8 SpD / 244 Spe  
+Adamant Nature  
+- Earthquake  
+- Return  
+- Dragon Dance  
+- Roost  
 
 === TRAINER_TATE_AND_LIZA_1 ===
 Name: TATE&LIZA
@@ -5124,39 +5174,52 @@ Gender: Male
 Music: Female
 Items: Hyper Potion / Hyper Potion / Hyper Potion / Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Basic Trainer / Smart Trainer / Ace Pokemon / Prediction
 
-Claydol
-Level: 41
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Earthquake
-- Ancient Power
-- Psychic
-- Light Screen
+Lunatone @ Sitrus Berry  
+Ability: Levitate  
+Level: 42  
+EVs: 248 HP / 244 SpA / 12 SpD  
+Modest Nature  
+IVs: 30 HP / 0 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Light Screen  
+- Calm Mind  
+- Power Gem  
+- Psychic  
 
-Xatu
-Level: 41
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Psychic
-- Sunny Day
-- Confuse Ray
-- Calm Mind
+Solrock @ Sitrus Berry  
+Ability: Levitate  
+Level: 42  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 30 HP / 0 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Reflect  
+- Calm Mind  
+- Psychic  
+- Earth Power  
 
-Lunatone @ Sitrus Berry
-Level: 42
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Light Screen
-- Psychic
-- Hypnosis
-- Calm Mind
+Alakazam @ Alakazite  
+Ability: Magic Guard  
+Level: 42   
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dazzling Gleam  
+- Psychic  
+- Shadow Ball  
+- Focus Blast  
 
-Solrock @ Sitrus Berry
-Level: 42
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Sunny Day
-- Solar Beam
-- Psychic
-- Flamethrower
+Oranguru @ Focus Sash  
+Ability: Inner Focus  
+Level: 42  
+Tera Type: Fairy  
+EVs: 248 HP / 8 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Instruct  
+- Psychic  
+- Protect  
+- Focus Blast  
 
 === TRAINER_JUAN_1 ===
 Name: JUAN
@@ -5166,47 +5229,71 @@ Gender: Male
 Music: Male
 Items: Hyper Potion / Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Smart Trainer / Ace Pokemon / Prediction / Risky
 
-Luvdisc
-Level: 41
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Water Pulse
-- Attract
-- Sweet Kiss
-- Flail
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+Level: 41  
+EVs: 248 HP / 248 SpA / 12 SpD  
+Modest Nature  
+- Tailwind  
+- Hurricane  
+- Scald  
+- U-turn  
 
-Whiscash
-Level: 41
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rain Dance
-- Water Pulse
-- Amnesia
-- Earthquake
+Whiscash @ Chesto Berry  
+Ability: Hydration  
+Level: 41  
+EVs: 248 Atk / 12 SpD / 244 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Liquidation  
+- Rest  
+- Earthquake  
 
-Sealeo
-Level: 43
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Encore
-- Body Slam
-- Aurora Beam
-- Water Pulse
+Ludicolo @ Assault Vest  
+Ability: Rain Dish  
+Level: 43  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Leaf Storm  
+- Leech Seed  
+- Substitute  
 
-Crawdaunt
-Level: 43
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Water Pulse
-- Crabhammer
-- Taunt
-- Leer
+Politoed @ King's Rock  
+Ability: Drizzle  
+Level: 43   
+EVs: 248 HP / 244 Atk / 16 SpD  
+Adamant Nature  
+- Ice Punch  
+- Liquidation  
+- Brick Break  
+- Perish Song  
 
-Kingdra @ Chesto Berry
-Level: 46
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Water Pulse
-- Double Team
-- Ice Beam
-- Rest
+Basculegion @ Mystic Water  
+Ability: Adaptability  
+Level: 45  
+Tera Type: Water  
+EVs: 4 HP / 252 Atk / 248 Spe  
+Adamant Nature  
+- Wave Crash  
+- Aqua Jet  
+- Last Respects  
+- Protect  
+
+Kingdra @ Clear Amulet  
+Ability: Swift Swim  
+Level: 50  
+Tera Type: Water  
+EVs: 248 SpA / 8 SpD / 248 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Flash Cannon  
+- Ice Beam  
+- Hydro Pump  
 
 === TRAINER_JERRY_1 ===
 Name: JERRY
